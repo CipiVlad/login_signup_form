@@ -1,0 +1,70 @@
+form {
+    background: black;
+    width: 600px;
+}
+
+
+input[target="signupbutton"] {
+    color: white;
+    background: green;
+}
+
+input[target="signupblack"] {
+    color: white;
+    background: black;
+}
+
+
+input[target="loginbutton"] {
+    color: white;
+    background: black;
+}
+
+input[target="logingreen"] {
+    color: white;
+    background: green;
+}
+
+form div label[target="headline"] {
+    color: white;
+    text-align: center;
+    margin-left: 200px;
+}
+
+input[target="getstartedbutton"] {
+    color: white;
+    background: green;
+    margin-left: 200px;
+
+}
+
+input[target="firstnamefield"] {
+    background: black;
+    border: 1px solid white;
+
+}
+
+input[target="lastnamefield"] {
+    background: black;
+    border: 1px solid white;
+}
+
+input[target="email"] {
+    background: black;
+    border: 1px solid white;
+}
+
+input[target="password"] {
+    background: black;
+    border: 1px solid white;
+}
+
+input[target="logingreen"] {
+    color: white;
+    background: green;
+}
+
+div a {
+
+    color: green;
+}
